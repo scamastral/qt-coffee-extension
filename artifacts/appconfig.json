@@ -1,0 +1,10 @@
+{
+  "name": "qt-coffee-extension",
+  "provider": "SAP",
+  "description": "sample extension for qt-coffee company",
+  "version": "0.0.1",
+  "icon": "https://image.flaticon.com/icons/svg/987/987624.svg",
+  "dockerRegistry": "docker.io/i503740",
+  "helmChartVersion": "0.0.1",
+  "parameters": []
+}
