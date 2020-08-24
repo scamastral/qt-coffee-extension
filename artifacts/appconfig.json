@@ -3,7 +3,7 @@
   "provider": "SAP",
   "description": "sample extension for qt-coffee company",
   "version": "0.0.1",
-  "icon": "http://image.flaticon.com/icons/svg/987/987624.svg",
+  "icon": "https://images.unsplash.com/photo-1518057111178-44a106bad636?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80",
   "dockerRegistry": "docker.io/i503740",
   "helmChartVersion": "0.0.1",
   "parameters": []
