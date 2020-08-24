@@ -2,6 +2,7 @@
   "name": "qt-coffee-extension",
   "provider": "SAP",
   "description": "sample extension for qt-coffee company",
+  "icon": "https://images.unsplash.com/photo-1518057111178-44a106bad636?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80",
   "version": "0.0.1",
   "dockerRegistry": "docker.io/i503740",
   "helmChartVersion": "0.0.1",
