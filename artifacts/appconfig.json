@@ -6,6 +6,6 @@
   "version": "0.0.1",
   "dockerRegistry": "docker.io/i503740",
   "helmChartVersion": "0.0.1",
-  "outletPositions": ['WFM_ACTIVITY_SIDEBAR'],
+  "outletPositions": ["WFM_ACTIVITY_SIDEBAR"],
   "parameters": []
 }
